@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="397cf0e1-40d8-4cab-a9fe-3754c7b2ad65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hopemapapp/.idea/hopemapapp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hopemapapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/hopemapapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hopemapapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hopemapapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hopemapapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/hopemapapp/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hopeproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hopeproject/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hopeproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hopeproject/urls.py" afterDir="false" />
     </list>
@@ -66,5 +67,15 @@
       <updated>1576667551478</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1305" y="658" key="Github.CreateGistDialog" timestamp="1580459886303">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1305" y="658" key="Github.CreateGistDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1580459886303" />
+    <state x="630" y="461" key="com.intellij.ide.util.TipDialog" timestamp="1580442591373">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="630" y="461" key="com.intellij.ide.util.TipDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1580442591373" />
   </component>
 </project>
